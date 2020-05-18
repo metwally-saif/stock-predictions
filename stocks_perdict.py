@@ -147,4 +147,4 @@ def ploting(train, valid):
     plt.show()
 
 
-create_training_data('AAPL (1).csv')
+create_training_data('csv file')
