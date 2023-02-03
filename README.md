@@ -1,10 +1,12 @@
 # stock-predictions
-Using machine learning this code predict the close price of a stock.
-It's better to use historical stock data for 5 years or more.
-you have to download historical stock data in csv form and add it to the path.
+Using machine learning this Program predict's the closing price of a given stock.
+
+Uplode the hestorical Data of a spicfic stock and let the magic happen.
+
+historical data must be in an csv format.
 
 ## installation
-use [pip](https://pip.pypa.io/en/stable/) to install these libraries
+use [pip](https://pip.pypa.io/en/stable/) to install the following libraries.
 
 ```bash
 pip install sklearn, tensorflow, keras, matplotlib, numpy, pandas
